@@ -22,12 +22,12 @@ export default {
 
 <style>
 a:link,
-a:visited, 
+a:visited,
 a:hover,
 a:active {
   text-decoration: none !important;
 }
 .theme--light.v-application {
-    background: none;
-  }
+  background: none;
+}
 </style>
